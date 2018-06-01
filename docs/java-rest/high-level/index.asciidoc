@@ -31,3 +31,4 @@ include::migration.asciidoc[]
 include::../license.asciidoc[]
 
 :doc-tests!:
+tests
